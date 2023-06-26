@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\baithi2\CS-Exam\obj\Debug\CS-Exam.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\baithi2\CS-Exam\obj\Debug\CS-Exam.csproj.CoreCompileInputs.cache
